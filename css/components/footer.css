@@ -1,0 +1,21 @@
+#footer{
+  padding: 1px;
+  background: rgb(50, 50, 50);
+  color: lightgrey;
+  display: flex;
+}
+#footer h2 {
+  color: lightgrey;
+  text-align: center;
+}
+
+.footer-icon-link {
+  color: lightgrey;
+  font-size: 100px;
+  flex-grow: 0 0 25% ;
+  justify-content: center;
+  padding: 10px 10px 0 10px
+}
+#footer p:hover {
+  color: white;
+}
